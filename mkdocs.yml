@@ -2,6 +2,7 @@ site_name: my-kotlin-service-docs
 
 nav:
   - Home: index.md
+  - About: about.md
 
 plugins:
   - techdocs-core
