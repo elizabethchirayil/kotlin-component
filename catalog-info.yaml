@@ -5,6 +5,7 @@ metadata:
   description: "Kotlin component"
   annotations:
     github.com/project-slug: elizabethchirayil/kotlin-component
+    github.com/project-id: 16737760170
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
